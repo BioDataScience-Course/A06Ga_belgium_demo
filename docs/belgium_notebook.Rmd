@@ -1,0 +1,12 @@
+---
+title: "Carnet de notes"
+author: "___"
+date: "___"
+output: html_document
+---
+
+<!----
+Ce notebook doit comprendre entre 15 à 20 graphiques/tableau résumant l'information commentés. Chaque graphiques doit avoir des labels et des unités corrects
+
+Ce notebook doit comprendre une courte introduction qui doit permettre sa compréhension sans devoir lire aucun autre document
+----->
