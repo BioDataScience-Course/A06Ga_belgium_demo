@@ -43,6 +43,8 @@ Vous devez ensuite réaliser entre 15 et 20 graphiques ou tableaux résumant l'i
 
 Vous devez enfin reprendre les 5 à 6 graphiques ou tableaux les plus importants de votre étude dans un rapport de synthèse de la démographie en Belgique. Les graphiques ou tableaux doivent provenir de votre carnet de notes. Vous structurez votre rapport de manière classique (voir note dans le rapport).
 
+**Attention :** Vous travaillerez par groupe de quatre. Répartissez-vous le travail, gérez les conflits éventuels et arrangez-vous pour que les contributions de chacun soient équitables (telles que visibles via les commits dans le dépôt sur GitHub) !
+
 ### Graphiques imposés
 
 Parmi les graphiques que vous réalisez dans votre carnet de notes, trois d'entre eux doivent reproduire à l'identique les figures ci-dessous.
