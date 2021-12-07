@@ -1,16 +1,8 @@
 ---
-title: "___"
+title: "Étude de la démographie en Belgique"
 author: "___"
 date: "___"
 output: html_document
 ---
 
-<!----
-Ce rapport doit être une synthèse du carnet de notes. Il doit comprendre entre 4 et 6 graphiques du carnet de notes.
-
-Chaque graphique ou tableau doit avoir des labels et des unités corrects. Chaque graphique ou tableau doit être commenté.
-
-Ce rapport doit comprendre une introduction qui doit permettre sa compréhension sans devoir lire aucun autre document
-
-Ce document doit proposer une description synthétique de la démographie en Belgique.
------>
+<!--% Ce rapport est une synthèse des éléments importants repris du carnet de notes. Il doit comprendre entre 5 et 6 graphiques ou tableaux du carnet de notes. Le document doit être structuré classiquement (introduction, but, matériel et méthodes, analyses, discussion et conclusions) et chaque item présenté dans la section analyses doit être brièvement commenté. Le documment doit être compilable (bouton "Knit") sans erreurs. -->

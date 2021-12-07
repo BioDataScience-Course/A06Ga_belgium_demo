@@ -1,12 +1,8 @@
 ---
-title: "Carnet de notes"
+title: "Étude de la démographie en Belgique - Carnet de notes"
 author: "___"
 date: "___"
 output: html_document
 ---
 
-<!----
-Ce notebook doit comprendre entre 15 à 20 graphiques/tableau résumant l'information commentés. Chaque graphiques doit avoir des labels et des unités corrects
-
-Ce notebook doit comprendre une courte introduction qui doit permettre sa compréhension sans devoir lire aucun autre document
------>
+<!--% Ce carnet de notes doit comprendre une courte introduction, ainsi que 15 à 20 graphiques ou tableaux qui doivent être commentés. Chaque graphiques doit avoir des labels et des unités des axes corrects. Le document doit être structuré en sections avec des titres informatifs. Il doit être compilable (bouton "Knit") sans erreurs. -->
